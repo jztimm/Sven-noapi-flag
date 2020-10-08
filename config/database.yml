@@ -23,6 +23,7 @@ default: &default
 
 development:
   <<: *default
+  database: sven_noapi_flag_development
   
   
 
